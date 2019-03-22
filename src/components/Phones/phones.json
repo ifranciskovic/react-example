@@ -1,0 +1,9 @@
+[
+    {"brand": "Apple", "type": "S8", "country": "USA", "price": 800, "battery": 2000 },
+    {"brand": "Huawei", "type": "P20", "country": "CHI", "price": 750, "battery": 3500},
+    {"brand": "Nokia", "type": "9", "country": "FIN", "price": 400, "battery": 2100},
+    {"brand": "Siemens", "type": "P20", "country": "GER", "price": 150, "battery": 1000},
+    {"brand": "Alcatel", "type": "1S", "country": "FRA", "price": 240, "battery": 1300},
+    {"brand": "Samsung", "type": "Galaxy S10", "country": "KOR", "price": 780, "battery": 2800}
+    ]
+   

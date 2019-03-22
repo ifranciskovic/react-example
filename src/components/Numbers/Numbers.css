@@ -1,0 +1,13 @@
+ul {
+    background: #3399ff;
+    padding: 20px;
+    cursor:pointer;
+    list-style: none;
+    width: 30%;
+    margin: auto;
+  }
+  
+  ul li {
+    background: #cce5ff;
+    margin: 5px;
+  }
